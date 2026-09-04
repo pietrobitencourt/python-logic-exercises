@@ -33,18 +33,18 @@ Os exercícios têm como foco consolidar os conceitos fundamentais da lógica de
 
 A lista está dividida em três níveis de dificuldade:
 
-**🔹 Nível 1 — Fundamentos (exercícios 1–10)**
+**🔹 Entrada, Saída e Aritmética Básica (exercícios 1–10)**
 - Entrada e saída de dados
 - Operações matemáticas básicas
 - Cálculos simples (soma, área, conversões)
 
-**🔹 Nível 2 — Aplicações e Fórmulas (exercícios 11–20)**
+**🔹 Atribuições Complexas, Fórmulas e Resto de Divisão (exercícios 11–20)**
 - Cálculos mais elaborados
 - Manipulação de variáveis
 - Porcentagens e conversões
 - Divisão inteira e resto
 
-**🔹 Nível 3 — Lógica e Condições (exercícios 21–30)**
+**🔹 Operadores Relacionais e Lógicos — Atribuição direta Lógica (exercícios 21–30)**
 - Operadores relacionais
 - Operadores lógicos (`and`, `or`)
 - Validações e expressões booleanas
@@ -59,19 +59,19 @@ A lista está dividida em três níveis de dificuldade:
 
 ```
 lista-01-algoritmos-basico/
-├── nivel-1-fundamentos/
+├── Entrada, Saída e Aritmética Básica/
 │   ├── ex01.py
 │   ├── ...
 │   └── ex10.py
-├── nivel-2-aplicacoes-formulas/
+├── Atribuições Complexas, Fórmulas e Resto de Divisão/
 │   ├── ex11.py
 │   ├── ...
 │   └── ex20.py
-├── nivel-3-logica-condicoes/
+├── Operadores Relacionais e Lógicos (Atribuição direta Lógica)/
 │   ├── ex21.py
 │   ├── ...
 │   └── ex30.py
-├── enunciado.pdf
+├── lista-01-algoritmos-basico.pdf
 └── README.md
 ```
 
@@ -83,8 +83,8 @@ Cada arquivo contém:
 
 ```bash
 git clone https://github.com/pietrobitencourt/python-logic-exercises.git
-cd python-logic-exercises/lista-01-algoritmos-basico
-python nivel-1-fundamentos/ex01.py
+cd "python-logic-exercises/lista-01-algoritmos-basico/Entrada, Saída e Aritmética Básica"
+python ex01.py
 ```
 
 ### 🎯 Objetivo
@@ -106,7 +106,7 @@ Estudante de Ciência da Computação
 
 ### 📄 Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](../LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE (na raiz do repositório) para mais detalhes.
 
 ---
 
@@ -122,18 +122,18 @@ The exercises focus on consolidating the fundamental concepts of programming log
 
 The list is divided into three difficulty levels:
 
-**🔹 Level 1 — Fundamentals (exercises 1–10)**
+**🔹 Input, Output and Basic Arithmetic (exercises 1–10)**
 - Data input and output
 - Basic math operations
 - Simple calculations (sum, area, conversions)
 
-**🔹 Level 2 — Applications and Formulas (exercises 11–20)**
+**🔹 Complex Assignments, Formulas and Remainder (exercises 11–20)**
 - More elaborate calculations
 - Variable manipulation
 - Percentages and conversions
 - Integer division and remainder
 
-**🔹 Level 3 — Logic and Conditions (exercises 21–30)**
+**🔹 Relational and Logical Operators — Direct Logical Assignment (exercises 21–30)**
 - Relational operators
 - Logical operators (`and`, `or`)
 - Validations and boolean expressions
@@ -148,19 +148,19 @@ The list is divided into three difficulty levels:
 
 ```
 lista-01-algoritmos-basico/
-├── nivel-1-fundamentos/
+├── Entrada, Saída e Aritmética Básica/
 │   ├── ex01.py
 │   ├── ...
 │   └── ex10.py
-├── nivel-2-aplicacoes-formulas/
+├── Atribuições Complexas, Fórmulas e Resto de Divisão/
 │   ├── ex11.py
 │   ├── ...
 │   └── ex20.py
-├── nivel-3-logica-condicoes/
+├── Operadores Relacionais e Lógicos (Atribuição direta Lógica)/
 │   ├── ex21.py
 │   ├── ...
 │   └── ex30.py
-├── enunciado.pdf
+├── lista-01-algoritmos-basico.pdf
 └── README.md
 ```
 
@@ -172,8 +172,8 @@ Each file contains:
 
 ```bash
 git clone https://github.com/pietrobitencourt/python-logic-exercises.git
-cd python-logic-exercises/lista-01-algoritmos-basico
-python nivel-1-fundamentos/ex01.py
+cd "python-logic-exercises/lista-01-algoritmos-basico/Entrada, Saída e Aritmética Básica"
+python ex01.py
 ```
 
 ### 🎯 Goal
@@ -195,4 +195,4 @@ Computer Science student
 
 ### 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
+This project is licensed under the MIT License. See the LICENSE file (at the repository root) for details.
